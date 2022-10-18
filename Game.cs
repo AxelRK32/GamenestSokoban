@@ -13,7 +13,7 @@ namespace Sokoban
         public Game()
         {
             map = new Map();
-            objects.Add(new GameObject(5, 5, "P"));
+            objects.Add(new GameObject(3, 3, "P"));
 
             map.PrintMap(objects);
         }

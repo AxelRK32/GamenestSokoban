@@ -10,7 +10,7 @@ namespace Sokoban
     {
         public static void Main(string[] args)
         {
-            Game game = new Game();
+            Menu menu = new Menu();
         }
     }
 }
